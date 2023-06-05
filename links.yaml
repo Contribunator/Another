@@ -1,3 +1,6 @@
 - name: Github
   url: https://github.com
   timestamp: 230605-0909
+- name: Another Link
+  url: https://example.com
+  timestamp: 230605-0912
