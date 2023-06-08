@@ -1,4 +1,16 @@
 - date: 2023-06-08
+  title: Another App
+  description: |-
+    This is an app with multiple lines and emojis! 
+
+    💪
+  image: ./images/230608-1120-another-app.png
+  type: identity
+  author: asdasd
+  links:
+    - title: Launch App
+      link: https://test.com/url
+- date: 2023-06-08
   image: ./images/230608-1113-asdasd.png
   type: games
   title: asdasd
