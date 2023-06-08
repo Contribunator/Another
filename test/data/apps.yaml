@@ -1,0 +1,29 @@
+- date: 2023-06-08
+  image: ./images/230608-1113-asdasd.png
+  type: games
+  title: asdasd
+  description: |-
+    asdasd
+    asd
+    asd
+    asd
+    asd
+    asd
+    asd
+    asd
+  author: Author name
+  authorLink: https://test.com/author
+  verifiedContract: https://contract.com
+  openSource: https://test.com/source
+  audit: https://test.com/audit
+  testSuite: https://test.com/tests
+  ipfsFrontend: https://test.com/ipfs
+  links:
+    - title: Launch App
+      link: https://test.com/url
+    - name: Github
+      link: https://github.com
+      icon: github
+    - name: Twitter
+      link: https://twitter.com
+      icon: twitter
